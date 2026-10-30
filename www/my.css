@@ -1,0 +1,48 @@
+
+.main-header .logo {
+  font-family: "Georgia", Times, "Times New Roman", serif;
+  font-weight: bold;
+  font-size: 24px;
+}
+
+.skin-blue .main-sidebar {
+    background-color: #f7f7f7;
+}
+
+.col .row {
+    margin-left: 0rem;
+    margin-right: 0rem;
+}
+
+.row {
+  margin-bottom: 0px;
+  margin-right: 0px;
+  margin-left: 0px;
+}
+
+body:not(.modal-open){
+  padding-right: 0px !important;
+}
+
+.rightAlign{  /*to force right aligment for an element*/
+  float:right;
+}
+
+.irs-grid-text {   /*for the slider font size*/
+  font-size: 12px;
+}
+
+.irs-single {
+  font-size: 12px;
+}
+
+
+div.checkbox {
+ /* margin-top: 0px; */
+}
+
+.popover {
+   max-width: 100%;
+}
+
+
